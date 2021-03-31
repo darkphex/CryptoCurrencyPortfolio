@@ -10,7 +10,7 @@
 !.vscode/extensions.json
 
 # my python file
-/lookup.my.py
+/lookup_my.py
 
 # test.json
 /test.json
