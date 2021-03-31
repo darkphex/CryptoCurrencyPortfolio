@@ -3,7 +3,6 @@
 # version control.
 #
 # example.tfvars
-.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -15,3 +14,4 @@
 
 # test.json
 /test.json
+/.gitignore
