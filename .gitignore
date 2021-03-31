@@ -3,6 +3,7 @@
 # version control.
 #
 # example.tfvars
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
